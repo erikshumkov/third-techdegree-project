@@ -319,6 +319,12 @@ textarea {
   }
   #zipcode {
     margin-bottom: 20px;
+    width: 40%;
+    justify-content: flex-start;
+  }
+  #zipper {
+    display: flex;
+    justify-content: flex-start;
   }
 
   .part-2 {
