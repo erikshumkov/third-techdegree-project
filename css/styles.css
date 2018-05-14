@@ -90,6 +90,7 @@ fieldset {
 .info {
   text-align: left;
   line-height: 25px;
+  font-size: 14px;
 }
 .contact {
   margin: 0 0 15px 0;
@@ -225,6 +226,7 @@ input[type="radio"] {
 .additional {
   margin-top: 30px;
   margin-bottom: 20px;
+  font-size: 14px;
 }
 
 textarea {
@@ -338,6 +340,10 @@ textarea {
     font-size: 18px;
   }
   .radionews {
+    font-size: 18px;
+  }
+
+  .additional {
     font-size: 18px;
   }
 
